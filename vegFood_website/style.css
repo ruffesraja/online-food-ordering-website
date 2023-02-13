@@ -1,0 +1,52 @@
+#ka{
+    color:orange;
+}
+body{
+    background-color: rgb(253, 223, 139);
+    margin-top: 0px;
+}
+#header{
+    display:flex;
+    padding:20px;
+    align-items: center;
+}
+h1{
+    margin-right:110px;
+}
+#ordernow{
+    border-radius: 30px;
+    border-color: rgb(252, 61, 150);
+    border:3px solid;
+    padding:4px;
+    margin-left: 110px;
+}#name{
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+}
+.section{
+    width:90vw;
+    height:70vh;
+    display:flex;
+    margin-top: 0px;
+    margin: 20px;
+}
+.food_image{
+    width:40vw;
+    height:65vh;
+    border-radius: 50%;
+}.element{
+    width:40vw;
+    height:65vh;
+    margin:30px;
+    padding:20px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#food_quality{
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
